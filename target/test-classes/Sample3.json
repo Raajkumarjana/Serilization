@@ -1,0 +1,36 @@
+{
+	"id": "100",
+	"type": "Selenium",
+	"name": "Raajkumar",
+	"ppu": 50.76,
+	"batters": {
+		"batter": [
+			{
+				"id": "100",
+				"type": "java"
+			},
+			{
+				"id": "200",
+				"type": "selenium"
+			},
+			{
+				"id": "300",
+				"type": "API"
+			}
+		]
+	},
+	"topping": [
+		{
+			"id": "10",
+			"type": "Inheritance"
+		},
+		{
+			"id": "20",
+			"type": "JavaScript"
+		},
+		{
+			"id": "30",
+			"type": "Deserialization"
+		}
+	]
+}
